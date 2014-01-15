@@ -1,0 +1,6 @@
+F:\99x\Web Services\WCF\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+F:\99x\Web Services\WCF\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+F:\99x\Web Services\WCF\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+F:\99x\Web Services\WCF\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csprojResolveAssemblyReference.cache
+F:\99x\Web Services\WCF\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+F:\99x\Web Services\WCF\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb

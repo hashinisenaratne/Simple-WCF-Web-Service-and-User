@@ -1,0 +1,6 @@
+F:\99x\Web Services\WCF\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+F:\99x\Web Services\WCF\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+F:\99x\Web Services\WCF\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+F:\99x\Web Services\WCF\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+F:\99x\Web Services\WCF\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+F:\99x\Web Services\WCF\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
